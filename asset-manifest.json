@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/weather-app-bootcamp/static/css/main.d0753a41.css",
+    "main.js": "/weather-app-bootcamp/static/js/main.ab9388ba.js",
+    "index.html": "/weather-app-bootcamp/index.html",
+    "main.d0753a41.css.map": "/weather-app-bootcamp/static/css/main.d0753a41.css.map",
+    "main.ab9388ba.js.map": "/weather-app-bootcamp/static/js/main.ab9388ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0753a41.css",
+    "static/js/main.ab9388ba.js"
+  ]
+}
